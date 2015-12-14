@@ -1,0 +1,1 @@
+c:\users\ardao\documents\visual studio 2015\Projects\MCSVSnapshotUpdater\MCSVSnapshotUpdater\bin\Debug\MCSVSnapshotUpdater.exe.config
