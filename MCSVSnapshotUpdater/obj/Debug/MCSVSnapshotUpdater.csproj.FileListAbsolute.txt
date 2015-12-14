@@ -1,1 +1,9 @@
 c:\users\ardao\documents\visual studio 2015\Projects\MCSVSnapshotUpdater\MCSVSnapshotUpdater\bin\Debug\MCSVSnapshotUpdater.exe.config
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\MCSVSnapshotUpdater\bin\Debug\MCSVSnapshotUpdater.exe.config
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\MCSVSnapshotUpdater\bin\Debug\MCSVSnapshotUpdater.exe
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\MCSVSnapshotUpdater\bin\Debug\MCSVSnapshotUpdater.pdb
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\MCSVSnapshotUpdater\obj\Debug\MCSVSnapshotUpdater.csprojResolveAssemblyReference.cache
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\MCSVSnapshotUpdater\obj\Debug\MCSVSnapshotUpdater.Properties.Resources.resources
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\MCSVSnapshotUpdater\obj\Debug\MCSVSnapshotUpdater.csproj.GenerateResource.Cache
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\MCSVSnapshotUpdater\obj\Debug\MCSVSnapshotUpdater.exe
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\MCSVSnapshotUpdater\obj\Debug\MCSVSnapshotUpdater.pdb
