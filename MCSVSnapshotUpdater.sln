@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCSVSnapshotUpdater", "MCSVSnapshotUpdater\MCSVSnapshotUpdater.csproj", "{749E46BC-E0F6-4486-9D3F-3A6F1B7518F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mcsvsu", "mcsvsu\mcsvsu.csproj", "{CCE4DF33-908D-45CB-ADD8-19959178010B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{749E46BC-E0F6-4486-9D3F-3A6F1B7518F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{749E46BC-E0F6-4486-9D3F-3A6F1B7518F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{749E46BC-E0F6-4486-9D3F-3A6F1B7518F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{749E46BC-E0F6-4486-9D3F-3A6F1B7518F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE4DF33-908D-45CB-ADD8-19959178010B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE4DF33-908D-45CB-ADD8-19959178010B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE4DF33-908D-45CB-ADD8-19959178010B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE4DF33-908D-45CB-ADD8-19959178010B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

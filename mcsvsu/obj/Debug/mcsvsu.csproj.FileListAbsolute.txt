@@ -1,0 +1,5 @@
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\mcsvsu\bin\Debug\mcsvsu.exe.config
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\mcsvsu\bin\Debug\mcsvsu.exe
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\mcsvsu\bin\Debug\mcsvsu.pdb
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\mcsvsu\obj\Debug\mcsvsu.exe
+C:\Users\ardao\Documents\GitHub\McSvSnapshotUpdater\mcsvsu\obj\Debug\mcsvsu.pdb

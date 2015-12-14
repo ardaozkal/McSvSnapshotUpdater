@@ -1,2 +1,7 @@
 *.exe
 *.pdb
+*.jar
+*.exe.config
+*.vshost.exe
+*.vshost.pdb
+*.vshost.exe.config

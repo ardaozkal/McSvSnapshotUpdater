@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MCSVSnapshotUpdater")]
+[assembly: AssemblyTitle("mcsvsu")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MCSVSnapshotUpdater")]
+[assembly: AssemblyProduct("mcsvsu")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("749e46bc-e0f6-4486-9d3f-3a6f1b7518f2")]
+[assembly: Guid("cce4df33-908d-45cb-add8-19959178010b")]
 
 // Version information for an assembly consists of the following four values:
 //
